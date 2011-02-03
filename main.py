@@ -7,8 +7,8 @@ from OpenGL.GL import *
 from OpenGL.GLUT import *
 
 
-win_width = 100
-win_height = 100
+win_width = 200
+win_height = 200
 
 def draw():
 	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT)
